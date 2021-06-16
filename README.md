@@ -1,6 +1,7 @@
 # wheat-detection-using-faster-r-cnn
 
 task:- detecting wheat heads
+
 type:- object detection
 
 steps:
